@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarketFlow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">The Right Address\n For Shopping\nAnyday!</string>
+    <string name="quality">It\'s now very easy to reach the\nbest quality among the\nproducts on the internet!</string>
+</resources>
